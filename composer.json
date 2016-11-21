@@ -22,8 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Icekson\\Utils\\": "src/Utils",
-            "Icekson\\Config\\": "src/Config"
+            "Icekson\\Utils\\Mail\\": "src/Mail"            
         }
     },
     "extra": {
