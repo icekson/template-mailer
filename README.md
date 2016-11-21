@@ -1,2 +1,3 @@
-# utils
-Utils classes
+# Template mailer
+
+mailer based on zend-mail
