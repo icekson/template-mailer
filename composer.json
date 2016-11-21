@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {        
-        "zendframework/zend-mail": "^2.*",
+        "zendframework/zend-mail": "2.*",
         "psr/log": "1.0.*",
         "monolog/monolog": "~1.12",
         "hassankhan/config": "^0.8.2"
